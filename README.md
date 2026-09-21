@@ -2,266 +2,84 @@
 
 # MOOSHA SANTHOSH KUMAR
 
-### `Java Backend Developer` · `CSE — AI & ML` · `Problem Solver`
-
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+Practical+Software+Solutions;Java+%7C+Spring+Boot+%7C+SQL;Data+Structures+%26+Algorithms;Artificial+Intelligence+%26+Machine+Learning;Turning+Ideas+Into+Working+Systems" />
-</p>
-
-<p>
-  <a href="https://github.com/Santhosh419">
-    <img src="https://img.shields.io/badge/GitHub-Santhosh419-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://linkedin.com/in/santhoshkumarmoosha">
-    <img src="https://img.shields.io/badge/LinkedIn-Santhosh%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://leetcode.com/santhosh5757">
-    <img src="https://img.shields.io/badge/LeetCode-Santhosh5757-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
-  </a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=Santhosh419&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge">
-
-</div>
-
----
-
-# `01` — DEVELOPER PROFILE
-
-<table>
-<tr>
-
-<td width="60%" valign="top">
-
-## About Me
-
-I am a **Computer Science student specializing in Artificial Intelligence and Machine Learning**, with strong foundations in **Java, Data Structures & Algorithms, Object-Oriented Programming and SQL**.
-
-I enjoy building practical applications, solving complex programming problems and exploring how **AI/ML can be applied to real-world challenges**.
-
-My current development direction is focused on **Java backend development, Spring Boot, SQL, DSA and scalable application development**, while continuing to build depth in AI and machine learning.
-
-</td>
-
-<td width="40%" align="center">
-
-## PROFILE
-
-```text
-┌─────────────────────────┐
-│                         │
-│   SANthosh KUMAR        │
-│                         │
-│   CSE — AI & ML         │
-│                         │
-│   Backend Development   │
-│   AI / ML               │
-│   DSA                   │
-│   SQL                   │
-│                         │
-└─────────────────────────┘
-```
-
-</td>
-
-</tr>
-</table>
-
----
-
-# `02` — QUICK STATS
-
-<table>
-<tr>
-
-<td align="center" width="20%">
-
-### 8.76
-
-**CGPA**
-
-</td>
-
-<td align="center" width="20%">
-
-### 97.5%
-
-**Recognition Accuracy**
-
-</td>
-
-<td align="center" width="20%">
-
-### 2
-
-**Major Projects**
-
-</td>
-
-<td align="center" width="20%">
-
-### 32+
-
-**Cloud Badges**
-
-</td>
-
-<td align="center" width="20%">
-
-### 2026
-
-**Certifications**
-
-</td>
-
-</tr>
-</table>
-
----
-
-# `03` — EDUCATION
-
-<table>
-<tr>
-
-<td width="70%" valign="top">
-
-## B.Tech — Computer Science & Engineering
-
-### Artificial Intelligence & Machine Learning
-
-**CMR College of Engineering and Technology**
-
-`2023 — Present`
-
-</td>
-
-<td width="30%" align="center">
-
-### CGPA
-
-# `8.76`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-**Intermediate — MPC**
-Sri Chaitanya Junior College
-
-`2021 — 2023`
-
-</td>
-
-<td align="center">
-
-### `9.84`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-**SSC**
-Panchavati Vidyalaya School
-
-`2021`
-
-</td>
-
-<td align="center">
-
-### `10.0`
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# `04` — TECH STACK
-
-<div align="center">
-
-## PROGRAMMING
-
-<img src="https://skillicons.dev/icons?i=java,python,mysql" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=800&lines=Java+Backend+Developer;Spring+Boot+Developer;CSE+%7C+AI+%26+ML;DSA+%7C+SQL+%7C+AI%2FML;Building+Practical+Software+Solutions">
+
+<br>
+
+<a href="https://github.com/Santhosh419">
+<img src="https://skillicons.dev/icons?i=github" width="45">
+</a>
+&nbsp;&nbsp;
+<a href="https://linkedin.com/in/santhoshkumarmoosha">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45">
+</a>
+&nbsp;&nbsp;
+<a href="https://leetcode.com/santhosh5757">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="45">
+</a>
+&nbsp;&nbsp;
+<a href="mailto:m.santhoshkumar419@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="45">
+</a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Java-Primary%20Language-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/Python-AI%2FML-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://komarev.com/ghpvc/?username=Santhosh419&label=PROFILE+VIEWS&style=for-the-badge">
 
 </div>
 
-<br>
+---
 
-<table>
+<div align="center">
+
+# 👨‍💻 ABOUT ME
+
+### CSE — Artificial Intelligence & Machine Learning
+
+**Java Backend Development · Spring Boot · DSA · SQL · AI/ML**
+
+</div>
+
+<table align="center">
 <tr>
 
 <td align="center" width="25%">
 
-### BACKEND
+<img src="https://skillicons.dev/icons?i=java" width="55">
 
-`Java`
+### Java
 
-`Spring Boot`
-
-`REST APIs`
-
-`OOPS`
+Backend
 
 </td>
 
 <td align="center" width="25%">
 
-### COMPUTER SCIENCE
+<img src="https://skillicons.dev/icons?i=spring" width="55">
 
-`DSA`
+### Spring Boot
 
-`DBMS`
-
-`Operating Systems`
-
-`Computer Networks`
+Development
 
 </td>
 
 <td align="center" width="25%">
 
-### AI / ML
+<img src="https://skillicons.dev/icons?i=python" width="55">
 
-`Machine Learning`
+### Python
 
-`Generative AI`
-
-`Deep Learning`
-
-`Computer Vision`
+AI / ML
 
 </td>
 
 <td align="center" width="25%">
 
-### TOOLS
+<img src="https://skillicons.dev/icons?i=mysql" width="55">
 
-`Git`
+### SQL
 
-`GitHub`
-
-`TensorFlow`
-
-`OpenCV`
+Database
 
 </td>
 
@@ -270,7 +88,99 @@ Panchavati Vidyalaya School
 
 ---
 
-# `05` — FEATURED PROJECTS
+# 🎓 EDUCATION
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/B.Tech-CSE%20%7C%20AI%20%26%20ML-4285F4?style=for-the-badge">
+
+### CMR College of Engineering and Technology
+
+`2023 — Present`
+
+### ⭐ 8.76 CGPA
+
+</div>
+
+<table align="center">
+<tr>
+
+<td align="center">
+
+### 🏫 Intermediate
+
+**MPC**
+
+Sri Chaitanya Junior College
+
+### 9.84
+
+</td>
+
+<td align="center">
+
+### 📚 SSC
+
+Panchavati Vidyalaya School
+
+### 10.0
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🧩 TECH STACK
+
+<div align="center">
+
+### 💻 PROGRAMMING
+
+<img src="https://skillicons.dev/icons?i=java,python,mysql">
+
+<br><br>
+
+### ⚙️ BACKEND
+
+<img src="https://skillicons.dev/icons?i=java,spring">
+
+<br><br>
+
+### 🤖 AI / MACHINE LEARNING
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv">
+
+<br><br>
+
+### 🛠️ TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github">
+
+</div>
+
+---
+
+# 🧠 CORE COMPUTER SCIENCE
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-0A0A0A?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/OOPS-Object%20Oriented%20Programming-0A0A0A?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/DBMS-Database%20Management-0A0A0A?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/OS-Operating%20Systems-0A0A0A?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/CN-Computer%20Networks-0A0A0A?style=for-the-badge">
+
+</div>
+
+---
+
+# 🚀 PROJECTS
 
 <table>
 <tr>
@@ -279,49 +189,45 @@ Panchavati Vidyalaya School
 
 <div align="center">
 
-# FOREST WILDFIRE
+# 🔥
 
-### Detection using Deep Learning
+## FOREST WILDFIRE DETECTION
 
-<img src="https://img.shields.io/badge/AI%2FML-Computer%20Vision-FF6F00?style=for-the-badge">
-<img src="https://img.shields.io/badge/Deep%20Learning-CNN-8E44AD?style=for-the-badge">
+### Deep Learning · Computer Vision
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/CNN-Deep%20Learning-8E44AD?style=flat-square">
+
+<img src="https://img.shields.io/badge/Computer-Vision-FF6F00?style=flat-square">
 
 </div>
 
----
+A computer vision system designed to detect wildfire from images using **convolutional neural networks**.
 
-### DESCRIPTION
-
-A **computer vision system for automatic wildfire detection from images**, using a convolutional neural network to identify visual patterns associated with fire.
-
-### TECHNOLOGY STACK
-
-`Python`
-`TensorFlow`
-`Keras`
-`OpenCV`
-`Scikit-learn`
-`NumPy`
-`Pandas`
-
-### CORE WORK
-
-**Image Processing**
-Preprocessing pipeline for preparing image data.
-
-**Feature Extraction**
-CNN-based extraction of visual features.
-
-**Classification**
-Classification model designed for automatic wildfire detection.
-
-<br>
+### Stack
 
 <div align="center">
 
-`COMPUTER VISION` · `CNN` · `IMAGE CLASSIFICATION`
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" />
 
 </div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+
+</div>
+
+### ⚡ Highlights
+
+`CNN` · `Image Processing` · `Feature Extraction` · `Classification`
 
 </td>
 
@@ -329,55 +235,45 @@ Classification model designed for automatic wildfire detection.
 
 <div align="center">
 
-# MULTIMODAL
+# 🔐
 
-### Biometric Recognition System
+## MULTIMODAL BIOMETRIC RECOGNITION
 
-<img src="https://img.shields.io/badge/AI%2FML-Biometric%20AI-00A67E?style=for-the-badge">
-<img src="https://img.shields.io/badge/Accuracy-97.5%25-2EA44F?style=for-the-badge">
+### Deep Learning · Authentication
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,django,mysql" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/97.5%25-Recognition%20Accuracy-2EA44F?style=flat-square">
 
 </div>
 
----
+A deep learning-based biometric authentication system combining **face, iris and finger-vein modalities**.
 
-### DESCRIPTION
-
-A **deep learning-based biometric authentication system** combining multiple biometric modalities for recognition.
-
-### TECHNOLOGY STACK
-
-`Python`
-`TensorFlow`
-`Keras`
-`Django`
-`MySQL`
-
-### BIOMETRIC MODALITIES
-
-**Face**
-
-**Iris**
-
-**Finger Vein**
-
-### CORE WORK
-
-**Feature Extraction**
-CNN networks extract features from biometric inputs.
-
-**Feature Fusion**
-RNN architecture combines multimodal features.
-
-**Data Processing**
-Resizing, normalization and augmentation were applied for robust training.
-
-<br>
+### Stack
 
 <div align="center">
 
-`CNN` · `RNN` · `BIOMETRICS` · `DEEP LEARNING`
+<img src="https://skillicons.dev/icons?i=python,tensorflow,django,mysql" />
 
 </div>
+
+### 🧬 Biometrics
+
+<div align="center">
+
+👤 **Face**
+
+👁️ **Iris**
+
+🖐️ **Finger Vein**
+
+</div>
+
+### ⚡ Highlights
+
+`CNN Feature Extraction` · `RNN Fusion` · `Normalization` · `Augmentation`
 
 </td>
 
@@ -386,82 +282,103 @@ Resizing, normalization and augmentation were applied for robust training.
 
 ---
 
-# `06` — CERTIFICATION WALL
+# 🏆 CERTIFICATIONS
 
 <div align="center">
-
-### GOOGLE CLOUD
 
 <table>
 <tr>
 
 <td align="center">
 
-<img src="https://img.shields.io/badge/GOOGLE%20CLOUD-Generative%20AI%20Leader-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
+<img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="65">
 
-<br>
+### Generative AI Leader
 
-**July 2026**
+**Google Cloud**
+
+`July 2026`
 
 </td>
 
 <td align="center">
 
-<img src="https://img.shields.io/badge/GOOGLE%20CLOUD-Associate%20Cloud%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
+<img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="65">
 
-<br>
+### Associate Cloud Engineer
 
-**August 2026**
+**Google Cloud**
+
+`August 2026`
 
 </td>
 
 </tr>
+
+<tr>
+
+<td align="center">
+
+🏅
+
+### Smart Coder
+
+**Smart Interviews**
+
+</td>
+
+<td align="center">
+
+🤖
+
+### GenAI Associate
+
+**Skill Development Program**
+
+</td>
+
+</tr>
+
 </table>
-
-### OTHER CERTIFICATIONS
-
-<img src="https://img.shields.io/badge/Smart%20Interviews-Smart%20Coder-111111?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Skill%20Development-GenAI%20Associate-111111?style=for-the-badge">
 
 </div>
 
 ---
 
-# `07` — GOOGLE CLOUD EXPERIENCE
+# ☁️ CLOUD EXPERIENCE
 
-<table>
+<table align="center">
 <tr>
 
 <td align="center" width="50%">
+
+<img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="70">
 
 ## GENERATIVE AI
 
-### L4G & Google for Developers
-
-**Virtual Internship**
+**L4G & Google for Developers**
 
 `10 Weeks`
 
 <br>
 
-<img src="https://img.shields.io/badge/22-Google%20Cloud%20Skill%20Badges-4285F4?style=for-the-badge&logo=googlecloud">
+<img src="https://img.shields.io/badge/22-Cloud%20Skill%20Badges-4285F4?style=for-the-badge">
 
 </td>
 
 <td align="center" width="50%">
 
+<img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="70">
+
 ## CLOUD ENGINEERING
 
-### L4G & Google for Developers
-
-**Associate Cloud Engineering Virtual Internship**
+**L4G & Google for Developers**
 
 `10 Weeks`
 
 <br>
 
-<img src="https://img.shields.io/badge/10-Google%20Cloud%20Skill%20Badges-4285F4?style=for-the-badge&logo=googlecloud">
+<img src="https://img.shields.io/badge/10-Cloud%20Skill%20Badges-4285F4?style=for-the-badge">
 
 </td>
 
@@ -470,87 +387,65 @@ Resizing, normalization and augmentation were applied for robust training.
 
 <div align="center">
 
-**Credentials**
+<a href="https://www.credly.com/users/santhosh-kumar-moosha">
 
-[Credly Profile](https://www.credly.com/users/santhosh-kumar-moosha)
+<img src="https://img.shields.io/badge/Credly-View%20Credentials-FF6B00?style=for-the-badge&logo=credly&logoColor=white">
+
+</a>
 
 </div>
 
 ---
 
-# `08` — CODING ARENA
+# 💻 CODING PROFILES
 
-<table>
-<tr>
-
-<td align="center" width="33%">
-
-## LeetCode
+<div align="center">
 
 <a href="https://leetcode.com/santhosh5757">
 
-<img src="https://img.shields.io/badge/SOLVE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="70">
 
 </a>
 
-</td>
-
-<td align="center" width="33%">
-
-## CodeChef
+    
 
 <a href="https://codechef.com/users/santhosh5757">
 
-<img src="https://img.shields.io/badge/COMPETE-5B4638?style=for-the-badge&logo=codechef&logoColor=white">
+<img src="https://cdn.simpleicons.org/codechef/5B4638" width="70">
 
 </a>
 
-</td>
-
-<td align="center" width="33%">
-
-## HackerRank
+    
 
 <a href="https://hackerrank.com/23h51a66ac">
 
-<img src="https://img.shields.io/badge/PRACTICE-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white">
+<img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="70">
 
 </a>
 
-</td>
+<br><br>
 
-</tr>
-</table>
-
-<div align="center">
-
-**Data Structures · Algorithms · Problem Solving**
+<img src="https://img.shields.io/badge/DSA-Problem%20Solving-0A0A0A?style=for-the-badge">
 
 </div>
 
 ---
 
-# `09` — GITHUB ANALYTICS
+# 📊 GITHUB ANALYTICS
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Santhosh419&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true">
 
+<br><br>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhosh419&layout=compact&theme=tokyonight&hide_border=true">
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=Santhosh419&theme=tokyonight&hide_border=true">
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Santhosh419&theme=tokyo-night&hide_border=true&area=true" width="95%">
 
@@ -558,136 +453,125 @@ Resizing, normalization and augmentation were applied for robust training.
 
 ---
 
-# `10` — CURRENT DEVELOPMENT
-
-<table>
-<tr>
-
-<td align="center" width="25%">
-
-### JAVA
-
-<img src="https://skillicons.dev/icons?i=java" width="50">
-
-**Backend Development**
-
-</td>
-
-<td align="center" width="25%">
-
-### SPRING
-
-<img src="https://skillicons.dev/icons?i=spring" width="50">
-
-**Application Development**
-
-</td>
-
-<td align="center" width="25%">
-
-### DSA
-
-**Algorithms**
-
-**Problem Solving**
-
-</td>
-
-<td align="center" width="25%">
-
-### DATABASE
-
-<img src="https://skillicons.dev/icons?i=mysql" width="50">
-
-**SQL · DBMS**
-
-</td>
-
-</tr>
-</table>
-
----
-
-# `11` — BEYOND DEVELOPMENT
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### HACKATHONS
-
-**SUDHEE 2026 — CBIT**
-
-Participated in a team-based hackathon focused on real-time problem solving and collaborative development.
-
-</td>
-
-<td width="50%" valign="top">
-
-### VOLUNTEERING
-
-**Youth for Seva — Chiguru 2026**
-
-Assisted in organizing a talent event with **100+ participants**, coordinating registrations and logistics.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### WORKSHOPS
-
-Participated in workshops covering:
-
-`Generative AI`
-
-`Drone Technology`
-
-</td>
-
-<td width="50%" valign="top">
-
-### PROBLEM SOLVING
-
-Regularly solving programming problems across:
-
-`LeetCode`
-
-`CodeChef`
-
-`HackerRank`
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# `12` — CONTACT
+# 🎯 CURRENT FOCUS
 
 <div align="center">
 
-### LET'S CONNECT
+<table>
+<tr>
 
-<p>
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=java" width="60">
+
+### Java
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=spring" width="60">
+
+### Spring Boot
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql" width="60">
+
+### SQL
+
+</td>
+
+<td align="center">
+
+🧩
+
+### DSA
+
+</td>
+
+<td align="center">
+
+🤖
+
+### AI / ML
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🌟 ACTIVITIES
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center">
+
+🏆
+
+### SUDHEE 2026
+
+**Hackathon — CBIT**
+
+</td>
+
+<td align="center">
+
+🤝
+
+### YOUTH FOR SEVA
+
+**Chiguru 2026**
+
+</td>
+
+<td align="center">
+
+🚀
+
+### WORKSHOPS
+
+**GenAI · Drone Technology**
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 📫 CONNECT
+
+<div align="center">
+
 <a href="mailto:m.santhoshkumar419@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://skillicons.dev/icons?i=gmail" width="55">
 </a>
+
+   
 
 <a href="https://github.com/Santhosh419">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://skillicons.dev/icons?i=github" width="55">
 </a>
 
+   
+
 <a href="https://linkedin.com/in/santhoshkumarmoosha">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://skillicons.dev/icons?i=linkedin" width="55">
 </a>
-</p>
+
+<br><br>
 
 **[m.santhoshkumar419@gmail.com](mailto:m.santhoshkumar419@gmail.com)**
 
@@ -697,8 +581,8 @@ Regularly solving programming problems across:
 
 <div align="center">
 
-### `BUILD • LEARN • SOLVE • CREATE`
+## `BUILD  •  LEARN  •  SOLVE  •  CREATE`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer">
 
 </div>
